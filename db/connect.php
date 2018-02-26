@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 $server = "localhost";
 $username = "root";
 $password = "root";
-$db = "Judging";
+$db = "judging";
 
 //Check if connection was successful
 try {
